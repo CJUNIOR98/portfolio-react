@@ -1,0 +1,65 @@
+.skills-background {
+  background-image: url("../assets/Images/keyboard.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+.services-container {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.services-sub-container {
+  width: 100%;
+  display: flex;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  justify-content: space-between;
+}
+.services-sub-container-2 {
+  width: 33.333%;
+  text-align: center;
+  padding: 30px;
+  border-radius: 15px;
+}
+.services-sub-container-2 h3 {
+  color: #00dbc9;
+}
+.icons-container-2 {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 2rem;
+  color: #00dbc9;
+}
+.skill-icon {
+  font-size: 2rem;
+  color: #00dbc9;
+}
+
+/* //////////////////////RESPONSIVE//////////////////////// */
+
+@media screen and (max-width: 992px) {
+  .services-container {
+    width: 90%;
+    margin: 60px 0px;
+  }
+  .icons-container-2 {
+    width: 70%;
+  }
+  .services-sub-container-2 {
+    padding: 10px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .services-sub-container {
+    flex-wrap: wrap;
+  }
+  .services-sub-container-2 {
+    width: 100%;
+  }
+  .icons-container-2 {
+    width: 100%;
+  }
+}

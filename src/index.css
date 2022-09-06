@@ -1,0 +1,15 @@
+@import-normalize;
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@100&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Urbanist;
+}
+body {
+  font-size: 1.2rem;
+  color: white;
+  background-color: #121216;
+}
+

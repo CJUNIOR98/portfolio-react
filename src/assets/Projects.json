@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "imageUrl": "https://i.imgur.com/2ewN2KK.png",
+      "projectUrl": "https://gleeful-dodol-e30202.netlify.app/",
+      "name": "Pokedex",
+      "description": "Made with the Pokemon API, you can search for Pokemons by name, ID or type to find images, type, statistics and general information about them, also you can save your favorites!.",
+      "id": 1
+    },
+    {
+      "imageUrl": "https://i.imgur.com/8VtDriw.png",
+      "projectUrl": "https://visionary-clafoutis-9ddabd.netlify.app/",
+      "name": "Weather App",
+      "description": "Made with the Open Weather Map API, you can check the current weather or the 7 day forecast in any city of the world.",
+      "id": 2
+    },
+    {
+      "imageUrl": "https://i.imgur.com/9GzgkXU.png",
+      "projectUrl": "https://graceful-taiyaki-bf6675.netlify.app/",
+      "name": "GitHub Dev Searcher",
+      "description": "React App made with the GitHub API, you search for developers to find their information, repos, followers; etc",
+      "id": 3
+    },
+    {
+      "imageUrl": "https://i.imgur.com/3uK92Ls.png",
+      "projectUrl": "https://neon-taiyaki-c265c1.netlify.app/",
+      "name": "CRUD whith React",
+      "description": "CRUD performed with the React JS framework, using an API with Postman",
+      "id": "4"
+    },
+    {
+      "imageUrl": "https://i.imgur.com/irssYQR.png",
+      "projectUrl": "https://endearing-beignet-353947.netlify.app/",
+      "name": " Ricak and Morty Wiki",
+      "description": "Project made with the React JS fammewor, a Wiki of the Rick and Morty series using its available API.",
+      "id": "5"
+    },
+    {
+      "imageUrl": "https://i.imgur.com/NmiRp2j.png",
+      "projectUrl": "https://helpful-banoffee-400525.netlify.app/",
+      "name": "Rick and Morty E-commerce",
+      "description": "E-commerce created, using the Rick and Morty API with Vanilla JavaScript.",
+      "id": "6"
+    }
+  ]
+}
